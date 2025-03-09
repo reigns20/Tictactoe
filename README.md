@@ -1,2 +1,2 @@
 # Tictactoe
-Orange dynasty gamep
+Orange dynasty game
